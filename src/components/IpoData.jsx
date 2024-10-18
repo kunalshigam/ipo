@@ -1,0 +1,122 @@
+export const IpoData=[
+    {   
+        "id":1,
+        "name": "Tech Innovators Inc.",
+        "ipoValue": "5000 Crores",
+        "image": "/images/abarth.svg",
+        "ipoStartDate": "2024-06-15",
+        "ipoEndDate": "2024-10-15",
+        "valuePerShare": "100 Shares/25 Lots",
+        "minInvestment":"500$",
+        "numberOfLots": 10000,
+        "priceRange":"10-20$"
+    },
+    {
+        "id":2,
+        "name": "Green Energy Corp.",
+        "ipoValue": "30000 Crores",
+        "image": "/images/css.svg",
+        "ipoStartDate": "2024-07-10",
+        "ipoEndDate": "2024-08-15",
+        "valuePerShare": "100 Shares/25 Lots",
+         "minInvestment":"500$",
+        "numberOfLots": 15000,
+        "priceRange":"10-20$"
+    },
+    {
+        "id":3,
+        "name": "HealthTech Solutions",
+        "ipoValue": "25000 Crores",
+        "image": "/images/bmw.svg",
+        "ipoStartDate": "2024-08-01",
+        "ipoEndDate": "2024-08-07",
+        "valuePerShare": "100 Shares/25 Lots",
+         "minInvestment":"500$",
+        "numberOfLots": 20000,
+        "priceRange":"10-20$"
+    },
+    {
+        "id":4,
+        "name": "FinTech Innovations",
+        "ipoValue": "4500 Crores",
+        "image": "/images/fb.svg",
+        "ipoStartDate": "2024-09-05",
+        "ipoEndDate": "2024-09-18",
+        "valuePerShare": "100 Shares/25 Lots",
+         "minInvestment":"500$",
+        "numberOfLots": 10000,
+        "priceRange":"10-20$"
+    },
+    {
+        "id":5,
+        "name": "BioPharma Ltd.",
+        "ipoValue": "60000 Crores",
+        "image": "/images/linkedin.svg",
+        "ipoStartDate": "2024-10-20",
+        "ipoEndDate": "2024-10-26",
+        "valuePerShare": "100 Shares/25 Lots",
+         "minInvestment":"500$",
+        "numberOfLots": 10000,
+        "priceRange":"10-20$"
+    },
+    {
+        "id":6,
+        "name": "EduTech Solutions",
+        "ipoValue": "20000 Crores",
+        "image": "/images/ola.svg",
+        "ipoStartDate": "2024-11-15",
+        "ipoEndDate": "2024-11-26",
+        "valuePerShare": "100 Shares/25 Lots",
+         "minInvestment":"500$",
+        "numberOfLots": 10000,
+        "priceRange":"10-20$"
+    },
+    {
+        "id":7,
+        "name": "RetailHub International",
+        "ipoValue": "40000 Crores",
+        "image": "/images/react.svg",
+        "ipoStartDate": "2024-12-01",
+        "ipoEndDate": "2024-12-26",
+        "valuePerShare": "100 Shares/25 Lots",
+         "minInvestment":"500$",
+        "numberOfLots": 10000,
+        "priceRange":"10-20$"
+    },
+    {
+        "id":8,
+        "name": "AutoTech Motors",
+        "ipoValue": "55000 Crores",
+        "image": "/images/sbi.svg",
+        "ipoStartDate": "2025-01-20",
+        "ipoEndDate": "2025-01-28",
+        "valuePerShare": "100 Shares/25 Lots",
+         "minInvestment":"500$",
+        "numberOfLots": 10000,
+        "priceRange":"10-20$"
+    },
+    {
+        "id":9,
+        "name": "CloudNet Services",
+        "ipoValue": "35000 Crores",
+        "image": "/images/tesla.svg",
+        "ipoStartDate": "2025-02-10",
+        "ipoEndDate": "2025-03-28",
+        "valuePerShare": "100 Shares/25 Lots",
+         "minInvestment":"500$",
+        "numberOfLots": 10000,
+        "priceRange":"10-20$"
+    },
+    {
+        "id":10,
+        "name": "FoodTech Innovations",
+        "ipoValue": "15000 Crores",
+        "image": "/images/yt.svg",
+        "ipoStartDate": "2025-03-15",
+        "ipoEndDate": "2025-03-28",
+        "valuePerShare": "100 Shares/25 Lots",
+         "minInvestment":"500$",
+        "numberOfLots": 10000,
+        "priceRange":"10-20$"
+    }
+]
